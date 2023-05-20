@@ -165,3 +165,8 @@ p{
 h2{
   color: #000;
 }
+button[type="download"]{
+  position: relative;
+  left: 50%;
+  background-color: grey;
+}
